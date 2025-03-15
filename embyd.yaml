@@ -57,6 +57,5 @@ payload:
 - DOMAIN-SUFFIX,cdn.bgp.yt
 - DOMAIN-SUFFIX,dandanplay.net
 - DOMAIN-SUFFIX,jingzhe.pro
-- DOMAIN-SUFFIX,misty.cx,Emby
 - IP-CIDR,152.53.55.180/32
 - IP-CIDR,131.186.31.190/32
