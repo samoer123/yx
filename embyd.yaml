@@ -1,8 +1,5 @@
 payload:
 #emby和需要直连的
-- IP-CIDR,192.168.74.0/24
-- IP-CIDR,172.31.2.0/24
-- IP-CIDR,10.147.17.0/24
 - DOMAIN-SUFFIX,viclub.top
 - DOMAIN-SUFFIX,embymv.link
 - IP-CIDR,193.123.232.141/32
@@ -27,9 +24,7 @@ payload:
 - DOMAIN-SUFFIX,poloemby.xyz
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,vfing.de
-- DOMAIN-SUFFIX,cmdns.xyz
 - DOMAIN-SUFFIX,bangumi.ca
-- DOMAIN-SUFFIX,myip.ipip.net
 - IP-CIDR,188.172.228.65/32
 - IP-CIDR,46.17.43.218/32
 - IP-CIDR,146.56.174.58/32
