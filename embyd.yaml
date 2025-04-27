@@ -10,7 +10,7 @@ payload:
 - DOMAIN-SUFFIX,nanflix.net
 - DOMAIN-SUFFIX,gugu.media
 - DOMAIN-SUFFIX,lyrebirdemby.com
-- DOMAIN-SUFFIX,pdatv.cc
+- DOMAIN-SUFFIX,pandtv.de
 - DOMAIN-SUFFIX,mooguu.xyz
 - IP-CIDR,132.226.20.31/32
 - DOMAIN-SUFFIX,1024.name
