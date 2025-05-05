@@ -33,3 +33,6 @@ payload:
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
 - IP-CIDR,193.122.114.13/32
+#dpeak
+- DOMAIN-SUFFIX,dpeak.top
+- DOMAIN-SUFFIX,bwihz.cn
