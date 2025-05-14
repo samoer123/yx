@@ -36,3 +36,6 @@ payload:
 #dpeak
 - DOMAIN-SUFFIX,dpeak.top
 - DOMAIN-SUFFIX,bwihz.cn
+#入机
+- DOMAIN-SUFFIX,rjemby.com
+- DOMAIN-SUFFIX,998903.xyz
