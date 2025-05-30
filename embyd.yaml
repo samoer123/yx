@@ -29,24 +29,26 @@ payload:
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
 - IP-CIDR,193.122.114.13/32
-#dpeak
-- DOMAIN-SUFFIX,dpeak.top
-- DOMAIN-SUFFIX,bwihz.cn
-#入机
-- DOMAIN-SUFFIX,rjemby.com
-- DOMAIN-SUFFIX,998903.xyz
-#西瓜
-- DOMAIN-SUFFIX,chilledmelon.com
-- DOMAIN-SUFFIX,1024.one
-#肥牛
-- DOMAIN-SUFFIX,feiniu.lol
-#萝卜
-- DOMAIN-SUFFIX,785858.xyz
-#叶子
-- DOMAIN-SUFFIX,yezi.my
-#影迹
-- DOMAIN-SUFFIX,9900990.buzz
 #月饼
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,637567.xyz
+#肥牛
+- DOMAIN-SUFFIX,feiniu.lol
+#西瓜
+- DOMAIN-SUFFIX,chilledmelon.com
+- DOMAIN-SUFFIX,1024.one
+#以下暂时屏蔽大陆IP
+#入机
+#- DOMAIN-SUFFIX,rjemby.com
+#- DOMAIN-SUFFIX,998903.xyz
+#萝卜
+#- DOMAIN-SUFFIX,785858.xyz
+#影迹
+#- DOMAIN-SUFFIX,9900990.buzz
+#dpeak
+#- DOMAIN-SUFFIX,dpeak.top
+#- DOMAIN-SUFFIX,bwihz.cn
+#叶子有点卡
+#- DOMAIN-SUFFIX,yezi.my
+
 
