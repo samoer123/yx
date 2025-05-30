@@ -41,8 +41,8 @@ payload:
 - DOMAIN-SUFFIX,chilledmelon.com
 - DOMAIN-SUFFIX,1024.one
 #垃圾
-- DOMAIN-SUFFIX,xxlb.net
 - DOMAIN-SUFFIX,9900990.buzz
+- DOMAIN-SUFFIX,xxlb.net
 #以下暂时屏蔽大陆IP
 #入机
 #- DOMAIN-SUFFIX,rjemby.com
