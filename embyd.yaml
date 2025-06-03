@@ -50,7 +50,7 @@ payload:
 #- DOMAIN-SUFFIX,9900990.buzz
 #dpeak
 #- DOMAIN-SUFFIX,dpeak.top
-#- DOMAIN-SUFFIX,bwihz.cn
+- DOMAIN-SUFFIX,bwihz.cn
 #叶子有点卡
 #- DOMAIN-SUFFIX,yezi.my
 
