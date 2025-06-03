@@ -1,6 +1,5 @@
 payload:
 #emby和需要直连的
-- DOMAIN-SUFFIX,viclub.top
 - DOMAIN-SUFFIX,embymv.link
 - IP-CIDR,193.123.232.141/32
 - DOMAIN-SUFFIX,coemn.com
@@ -16,16 +15,18 @@ payload:
 - IP-CIDR,50.114.55.29/32
 - DOMAIN-SUFFIX,sfcj.org
 - DOMAIN-SUFFIX,poloemby.xyz
-- DOMAIN-SUFFIX,vfing.de
 - IP-CIDR,188.172.228.65/32
 - IP-CIDR,46.17.43.218/32
 - IP-CIDR,146.56.174.58/32
 - DOMAIN-SUFFIX,cdn.bgp.yt
 - DOMAIN-SUFFIX,dandanplay.net
 - DOMAIN-SUFFIX,jingzhe.pro
+#大V
+- DOMAIN-SUFFIX,vfing.de
 #大V和sd?
 - IP-CIDR,152.53.55.180/32
 - IP-CIDR,131.186.31.190/32
+#youn
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
 - IP-CIDR,193.122.114.13/32
