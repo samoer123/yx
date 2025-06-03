@@ -53,6 +53,6 @@ payload:
 #- DOMAIN-SUFFIX,dpeak.top
 - DOMAIN-SUFFIX,bwihz.cn
 #叶子有点卡
-- DOMAIN-SUFFIX,yezi.my
+#- DOMAIN-SUFFIX,yezi.my
 
 
