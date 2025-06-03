@@ -7,7 +7,6 @@ payload:
 - IP-CIDR,193.123.252.106/32
 - DOMAIN-SUFFIX,guguemby.site
 - DOMAIN-SUFFIX,nanflix.net
-- DOMAIN-SUFFIX,lyrebirdemby.com
 - DOMAIN-SUFFIX,pandtv.de
 - DOMAIN-SUFFIX,mooguu.xyz
 - IP-CIDR,132.226.20.31/32
