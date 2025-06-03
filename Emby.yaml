@@ -1,14 +1,26 @@
 payload:
 #emby和需要挂梯的
-  #其他emby
-  #misty
-  - DOMAIN-SUFFIX,misty.cx
-  #入机
-  - DOMAIN-SUFFIX,rjemby.com
-  - DOMAIN-SUFFIX,998903.xyz
-  #萝卜
-  - DOMAIN-SUFFIX,785858.xyz
-  #影迹
-  - DOMAIN-SUFFIX,9900990.buzz
-  #dpeak
-  - DOMAIN-SUFFIX,dpeak.top
+#其他emby
+#misty
+- DOMAIN-SUFFIX,misty.cx
+#入机
+- DOMAIN-SUFFIX,rjemby.com
+- DOMAIN-SUFFIX,998903.xyz
+#萝卜
+- DOMAIN-SUFFIX,785858.xyz
+#影迹
+- DOMAIN-SUFFIX,9900990.buzz
+#dpeak
+- DOMAIN-SUFFIX,dpeak.top
+#大v
+- DOMAIN-SUFFIX,viclub.top
+#垃圾
+- DOMAIN-SUFFIX,xmsl.org
+#叶子有点卡
+- DOMAIN-SUFFIX,yezi.my
+#琴鸟
+- DOMAIN-SUFFIX,lyrebirdemby.com
+#nya
+- DOMAIN-SUFFIX,bangumi.ca
+#ntr
+- DOMAIN-SUFFIX,ntrrr.top
