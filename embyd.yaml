@@ -14,7 +14,6 @@ payload:
 - IP-CIDR,50.114.55.29/32
 - DOMAIN-SUFFIX,sfcj.org
 - DOMAIN-SUFFIX,poloemby.xyz
-- IP-CIDR,188.172.228.65/32
 - IP-CIDR,46.17.43.218/32
 - IP-CIDR,146.56.174.58/32
 - DOMAIN-SUFFIX,cdn.bgp.yt
@@ -55,5 +54,5 @@ payload:
 #- DOMAIN-SUFFIX,yezi.my
 #琴鸟
 - DOMAIN-SUFFIX,lyrebirdemby.com
-
+- IP-CIDR,188.172.228.65/32
 
