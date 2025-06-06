@@ -1,33 +1,41 @@
 payload:
 #emby和需要直连的
+#peach
 - DOMAIN-SUFFIX,embymv.link
-- IP-CIDR,193.123.232.141/32
+#cc
 - DOMAIN-SUFFIX,coemn.com
 - DOMAIN-SUFFIX,carryz.net
-- IP-CIDR,193.123.252.106/32
+- IP-CIDR,103.234.128.149/32
+#gugu
 - DOMAIN-SUFFIX,guguemby.site
+#天南
 - DOMAIN-SUFFIX,nanflix.net
+#panda
 - DOMAIN-SUFFIX,pandtv.de
+#见手青
 - DOMAIN-SUFFIX,mooguu.xyz
-- IP-CIDR,132.226.20.31/32
-- DOMAIN-SUFFIX,saturdayvideo.top
-- IP-CIDR,50.114.55.29/32
+#非跃
 - DOMAIN-SUFFIX,sfcj.org
+#polo
 - DOMAIN-SUFFIX,poloemby.xyz
-- IP-CIDR,46.17.43.218/32
-- IP-CIDR,146.56.174.58/32
+#二次元联通
 - DOMAIN-SUFFIX,cdn.bgp.yt
+#dandanplay弹幕
 - DOMAIN-SUFFIX,dandanplay.net
+#二次元联通
 - DOMAIN-SUFFIX,jingzhe.pro
 #大V
 - DOMAIN-SUFFIX,vfing.de
-#大V和sd?
+#sdl
+- DOMAIN-SUFFIX,saturdayvideo.top
+#大V和sd?针对openclash不代理非标端口
 - IP-CIDR,152.53.55.180/32
 - IP-CIDR,131.186.31.190/32
-#youn
+#yono
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
 - IP-CIDR,193.122.114.13/32
+- IP-CIDR,103.234.128.149/32
 #月饼
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,637567.xyz
