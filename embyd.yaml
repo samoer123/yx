@@ -38,9 +38,6 @@ payload:
 - DOMAIN-SUFFIX,637567.xyz
 #肥牛
 - DOMAIN-SUFFIX,feiniu.lol
-#staremby2
-- DOMAIN-SUFFIX,staryuki.com
-- DOMAIN-SUFFIX,simonvan.space
 #西瓜
 - DOMAIN-SUFFIX,chilledmelon.com
 #dpeak
@@ -48,4 +45,6 @@ payload:
 #琴鸟
 - DOMAIN-SUFFIX,lyrebirdemby.com
 - IP-CIDR,188.172.228.65/32
+#萝卜
+- DOMAIN-SUFFIX,785858.xyz
 
