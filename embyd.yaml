@@ -22,7 +22,7 @@ payload:
 - DOMAIN-SUFFIX,cdn.bgp.yt
 #dandanplay弹幕
 - DOMAIN-SUFFIX,dandanplay.net
-#二次元联通
+#惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
 #大V
 - DOMAIN-SUFFIX,vfing.de
