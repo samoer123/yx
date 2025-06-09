@@ -28,9 +28,6 @@ payload:
 - DOMAIN-SUFFIX,vfing.de
 #sdl
 - DOMAIN-SUFFIX,saturdayvideo.top
-#大V和sd?针对openclash不代理非标端口
-- IP-CIDR,152.53.55.180/32
-- IP-CIDR,131.186.31.190/32
 #yono
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
