@@ -42,7 +42,6 @@ payload:
 #dpeak
 - DOMAIN-SUFFIX,bwihz.cn
 #琴鸟
-- DOMAIN-SUFFIX,lyrebirdemby.com
 - IP-CIDR,188.172.228.65/32
 #萝卜
 - DOMAIN-SUFFIX,785858.xyz
