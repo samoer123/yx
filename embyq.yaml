@@ -2,9 +2,6 @@ payload:
 #emby和需要挂梯的
 #misty
 - DOMAIN-SUFFIX,misty.cx
-#入机
-- DOMAIN-SUFFIX,rjf37.com
-- DOMAIN-SUFFIX,xytx.org
 #影迹
 - DOMAIN-SUFFIX,123456789.lol
 #dpeak
