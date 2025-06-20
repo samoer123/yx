@@ -14,8 +14,6 @@ payload:
 - DOMAIN-SUFFIX,pandtv.de
 #见手青
 - DOMAIN-SUFFIX,vban.xyz
-#非跃
-- DOMAIN-SUFFIX,sfcj.org
 #polo
 - DOMAIN-SUFFIX,poloemby.xyz
 #二次元联通
@@ -24,23 +22,16 @@ payload:
 - DOMAIN-SUFFIX,dandanplay.net
 #惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
-#大V
-- DOMAIN-SUFFIX,vfing.de
 #sdl
 - DOMAIN-SUFFIX,saturdayvideo.top
 #yono
 - DOMAIN-SUFFIX,younoyes.com
 #彩虹
 - DOMAIN-SUFFIX,yhemby.top
-#月饼
-- DOMAIN-SUFFIX,emby.my
-- DOMAIN-SUFFIX,637567.xyz
 #肥牛
 - DOMAIN-SUFFIX,feiniu.lol
 #西瓜
 - DOMAIN-SUFFIX,chilledmelon.com
-#dpeak
-- DOMAIN-SUFFIX,bwihz.cn
 #琴鸟
 - IP-CIDR,188.172.228.65/32
 #萝卜
@@ -48,4 +39,4 @@ payload:
 #入机
 - DOMAIN-SUFFIX,rjf37.com
 - DOMAIN-SUFFIX,xytx.org
-
+- DOMAIN-SUFFIX,010004.xyz
