@@ -2,19 +2,22 @@ payload:
 #emby和需要挂梯的
 #misty
 - DOMAIN-SUFFIX,misty.cx
-#影迹
-- DOMAIN-SUFFIX,123456789.lol
-#dpeak
-- DOMAIN-SUFFIX,dpeak.top
 #大v
 - DOMAIN-SUFFIX,viclub.top
+- DOMAIN-SUFFIX,vfing.de
 #垃圾
 - DOMAIN-SUFFIX,xmsl.org
-#叶子有点卡
-- DOMAIN-SUFFIX,yezi.my
 #nya
 - DOMAIN-SUFFIX,bangumi.ca
 #ntr
 - DOMAIN-SUFFIX,ntrrr.top
 #琴鸟
 - DOMAIN-SUFFIX,lyrebirdemby.com
+#月饼
+- DOMAIN-SUFFIX,emby.my
+- DOMAIN-SUFFIX,637567.xyz
+#非跃
+- DOMAIN-SUFFIX,sfcj.org
+#飞喵
+- DOMAIN-SUFFIX,meowfly.de
+
