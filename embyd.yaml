@@ -5,7 +5,6 @@ payload:
 #cc
 - DOMAIN-SUFFIX,coemn.com
 - DOMAIN-SUFFIX,carryz.net
-- IP-CIDR,103.234.128.149/32
 #gugu
 - DOMAIN-SUFFIX,guguemby.site
 #天南
@@ -53,3 +52,5 @@ payload:
 - DOMAIN-SUFFIX,meowfly.de
 #zox
 - DOMAIN-SUFFIX,3767483.xyz
+#垃圾拉斯后端 貌似跟cc一个？
+- IP-CIDR,103.234.128.149/32
