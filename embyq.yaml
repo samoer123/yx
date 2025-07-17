@@ -17,3 +17,5 @@ payload:
 - DOMAIN-SUFFIX,term.wtf
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
+#zox晚上太卡
+- DOMAIN-SUFFIX,3767483.xyz
