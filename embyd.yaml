@@ -31,8 +31,6 @@ payload:
 - DOMAIN-SUFFIX,chilledmelon.com
 #琴鸟
 - IP-CIDR,188.172.228.65/32
-#萝卜
-- DOMAIN-SUFFIX,785858.xyz
 #入机
 - DOMAIN-SUFFIX,rjf37.com
 - DOMAIN-SUFFIX,xytx.org
