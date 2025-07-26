@@ -32,18 +32,9 @@ payload:
 #琴鸟
 - IP-CIDR,188.172.228.65/32
 #入机
-- DOMAIN-SUFFIX,rjf37.com
-- DOMAIN-SUFFIX,xytx.org
-- DOMAIN-SUFFIX,010004.xyz
-#月饼
-- DOMAIN-SUFFIX,emby.my
-- DOMAIN-SUFFIX,mobai.sbs
+- DOMAIN,rjcf.xytx.org
 #非越
 - DOMAIN-SUFFIX,sfcj.org
-#msky
-- DOMAIN-SUFFIX,5msky.com
-#飞喵
-- DOMAIN-SUFFIX,meowfly.de
 #垃圾拉斯后端 貌似跟cc一个？
 - IP-CIDR,103.234.128.149/32
 #star
