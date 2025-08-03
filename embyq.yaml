@@ -23,6 +23,6 @@ payload:
 #守候lite
 - DOMAIN-SUFFIX,cn2gias.uk
 #入机
-- DOMAIN-SUFFIX,rjf37.com
-- DOMAIN-SUFFIX,xytx.org
-- DOMAIN-SUFFIX,010004.xyz
+#- DOMAIN-SUFFIX,rjf37.com
+#- DOMAIN-SUFFIX,xytx.org
+#- DOMAIN-SUFFIX,010004.xyz
