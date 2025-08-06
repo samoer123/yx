@@ -29,15 +29,11 @@ payload:
 - DOMAIN-SUFFIX,chilledmelon.com
 #琴鸟
 - IP-CIDR,188.172.228.65/32
-#入机
-#- DOMAIN,rjcf.xytx.org
 #非越
 - DOMAIN-SUFFIX,sfcj.org
 #垃圾拉斯后端 貌似跟cc一个？
 - IP-CIDR,103.234.128.149/32
 #star
 - DOMAIN-SUFFIX,staryuki.me
-#守候litev6
-- DOMAIN,lite-v6.cn2gias.uk
 #叔服
 - DOMAIN-SUFFIX,mcjoker.xyz
