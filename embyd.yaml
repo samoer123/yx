@@ -36,5 +36,3 @@ payload:
 #月饼
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,mobai.sbs
-#非越
-- DOMAIN-SUFFIX,sfcj.org
