@@ -39,3 +39,12 @@ payload:
 - DOMAIN-SUFFIX,mobai.sbs
 #彩虹
 - DOMAIN-SUFFIX,feiyue.lol
+#DP
+- DOMAIN-SUFFIX,bwihz.cn
+#saodu弹幕、emby
+- DOMAIN-SUFFIX,saodu.work
+- DOMAIN-SUFFIX,saodu.asia
+#ME
+- DOMAIN-SUFFIX,mebimmer.de
+#ichi
+- DOMAIN-SUFFIX,191920.xyz
