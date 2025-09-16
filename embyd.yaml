@@ -43,10 +43,5 @@ payload:
 - DOMAIN-SUFFIX,feiyue.lol
 #DP
 - DOMAIN-SUFFIX,bwihz.cn
-#saodu弹幕、emby
-- DOMAIN-SUFFIX,saodu.work
+#saoduemby
 - DOMAIN-SUFFIX,saodu.asia
-#ME
-- DOMAIN-SUFFIX,mebimmer.de
-#ichi
-- DOMAIN-SUFFIX,191920.xyz
