@@ -5,8 +5,6 @@ payload:
 #cc
 - DOMAIN-SUFFIX,coemn.com
 - DOMAIN-SUFFIX,carryz.net
-#gugu
-- DOMAIN-SUFFIX,guguemby.site
 #天南
 - DOMAIN-SUFFIX,nanflix.net
 #panda
@@ -25,8 +23,6 @@ payload:
 - DOMAIN-SUFFIX,saturdayvideo.top
 #yono
 - DOMAIN-SUFFIX,younoyes.com
-#西瓜
-- DOMAIN-SUFFIX,chilledmelon.com
 #琴鸟
 - IP-CIDR,188.172.228.65/32
 - DOMAIN,vip1.lyrebirdemby.com
@@ -39,9 +35,5 @@ payload:
 #月饼
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,mobai.sbs
-#彩虹
-- DOMAIN-SUFFIX,feiyue.lol
 #DP
 - DOMAIN-SUFFIX,bwihz.cn
-#saoduemby
-- DOMAIN-SUFFIX,saodu.asia
