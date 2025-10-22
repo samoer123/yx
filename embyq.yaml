@@ -22,3 +22,5 @@ payload:
 - DOMAIN-SUFFIX,3767483.xyz
 #守候lite
 - DOMAIN-SUFFIX,cn2gias.uk
+#yono
+- DOMAIN,emby.younoyes.com
