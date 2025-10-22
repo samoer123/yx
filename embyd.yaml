@@ -20,7 +20,8 @@ payload:
 #sdl
 - DOMAIN-SUFFIX,saturdayvideo.top
 #yono
-- DOMAIN-SUFFIX,younoyes.com
+- DOMAIN,jp.younoyes.com
+- DOMAIN,us.younoyes.com
 #琴鸟
 - IP-CIDR,188.172.228.65/32
 - DOMAIN,vip1.lyrebirdemby.com
