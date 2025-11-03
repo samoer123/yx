@@ -7,6 +7,7 @@ payload:
 - DOMAIN-SUFFIX,carryz.net
 #panda
 - DOMAIN-SUFFIX,pandtv.de
+- DOMAIN-SUFFIX,panda8.live
 #见手青
 - DOMAIN-SUFFIX,vban.xyz
 #polo
@@ -34,3 +35,7 @@ payload:
 - DOMAIN-SUFFIX,mobai.sbs
 #DP
 - DOMAIN-SUFFIX,bwihz.cn
+#彩虹
+- DOMAIN-SUFFIX,feiyue.lol
+#emos
+- DOMAIN-SUFFIX,emos.lol
