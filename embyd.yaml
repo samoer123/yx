@@ -41,3 +41,5 @@ payload:
 - DOMAIN-SUFFIX,emby.bangumi.ca
 #算亿轩hkt
 - DOMAIN,hkt.m1.syxxxx.net
+#fwork
+- DOMAIN-KEYWORD,fworks-emby
