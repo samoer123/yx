@@ -20,3 +20,9 @@ payload:
 - DOMAIN-SUFFIX,cn2gias.uk
 #yono
 - DOMAIN,emby.younoyes.com
+#sdl
+- DOMAIN-SUFFIX,saturdayvideo.top
+#非越
+- DOMAIN-SUFFIX,sfcj.org
+#polo
+- DOMAIN-SUFFIX,poloemby.xyz
