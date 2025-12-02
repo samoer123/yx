@@ -1,9 +1,7 @@
 payload:
 #emby和需要直连的
 #panda
-- DOMAIN,d.pandtv.de
-- DOMAIN,v.pandtv.de
-- DOMAIN,s.pandtv.de
+- DOMAIN-SUFFIX,pandtv.de
 - DOMAIN-SUFFIX,panda8.live
 #见手青
 - DOMAIN-SUFFIX,vban.xyz
