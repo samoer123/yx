@@ -1,0 +1,43 @@
+payload:
+#emby和需要直连的
+#panda
+- DOMAIN,d.pandtv.de
+- DOMAIN,v.pandtv.de
+- DOMAIN,s.pandtv.de
+- DOMAIN-SUFFIX,panda8.live
+#见手青
+- DOMAIN-SUFFIX,vban.xyz
+#月饼
+- DOMAIN-SUFFIX,emby.my
+- DOMAIN-SUFFIX,mobai.sbs
+#theluyuan
+- DOMAIN-SUFFIX,theluyuan.com
+#彩虹
+- DOMAIN-SUFFIX,feiyue.lol
+#peach
+- DOMAIN-SUFFIX,embymv.link
+#惊蛰
+- DOMAIN-SUFFIX,jingzhe.pro
+#cc
+- DOMAIN-SUFFIX,coemn.com
+- DOMAIN-SUFFIX,carryz.net
+#算亿轩hkt
+- DOMAIN,hkt.m1.syxxxx.net
+#fwork
+- DOMAIN-KEYWORD,fworks-emby
+#emos
+- DOMAIN-SUFFIX,emos.lol
+#nya
+- DOMAIN-SUFFIX,emby.bangumi.ca
+#二次元联通
+- DOMAIN-SUFFIX,cdn.bgp.yt
+#dandanplay弹幕
+- DOMAIN-SUFFIX,dandanplay.net
+#yono
+- DOMAIN,jp.younoyes.com
+- DOMAIN,us.younoyes.com
+#垃圾拉斯后端 貌似跟cc一个？第二个是真的拉斯？
+- IP-CIDR,103.234.128.149/32
+- IP-CIDR,209.141.61.153/32
+#DP
+- DOMAIN-SUFFIX,bwihz.cn
