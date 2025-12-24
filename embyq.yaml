@@ -1,14 +1,10 @@
 payload:
 #emby和需要挂梯的
-#misty
-- DOMAIN-SUFFIX,misty.cx
 #大v
 - DOMAIN-SUFFIX,vfing.de
 - DOMAIN-SUFFIX,viclub.top
 #垃圾
 - DOMAIN-SUFFIX,xmsl.org
-#ntrrr
-- DOMAIN-SUFFIX,ntrrr.top
 #终点站
 - DOMAIN-SUFFIX,emby.wtf
 - DOMAIN-SUFFIX,term.wtf
@@ -18,8 +14,6 @@ payload:
 - DOMAIN-SUFFIX,3767483.xyz
 #守候lite
 - DOMAIN-SUFFIX,cn2gias.uk
-#yono
-- DOMAIN,emby.younoyes.com
 #sdl
 - DOMAIN-SUFFIX,saturdayvideo.top
 #非越
