@@ -1,24 +1,6 @@
 payload:
-#emby和需要挂梯的
+#emby和需要挂梯的 非443 90端口
 #大v
-- DOMAIN-SUFFIX,vfing.de
 - DOMAIN-SUFFIX,viclub.top
-#垃圾
-- DOMAIN-SUFFIX,xmsl.org
-#终点站
-- DOMAIN-SUFFIX,emby.wtf
-- DOMAIN-SUFFIX,term.wtf
-#垃圾cf后端
-- DOMAIN-SUFFIX,xxlb.net
-#zox晚上太卡
-- DOMAIN-SUFFIX,3767483.xyz
-#守候lite
-- DOMAIN-SUFFIX,cn2gias.uk
-#sdl
-- DOMAIN-SUFFIX,saturdayvideo.top
-#非越
-- DOMAIN-SUFFIX,sfcj.org
 #polo
 - DOMAIN-SUFFIX,poloemby.xyz
-#气鼠
-- DOMAIN-SUFFIX,istyboe.top
