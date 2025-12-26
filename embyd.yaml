@@ -42,3 +42,9 @@ payload:
 - IP-CIDR,209.141.61.153/32
 #DP
 - DOMAIN-SUFFIX,bwihz.cn
+#西瓜
+- DOMAIN,cf.xgua.de
+- DOMAIN,cf.icgua.de
+- DOMAIN,cf.icegua.de
+- DOMAIN,fra.chilledmelon.com
+- DOMAIN,sjc.chilledmelon.com
