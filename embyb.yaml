@@ -1,12 +1,7 @@
 payload:
 #emby和需要挂梯的 443 80端口
-#大v
-- DOMAIN-SUFFIX,vfing.de
 #垃圾
 - DOMAIN-SUFFIX,xmsl.org
-#终点站
-- DOMAIN-SUFFIX,emby.wtf
-- DOMAIN-SUFFIX,term.wtf
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
 #守候lite
