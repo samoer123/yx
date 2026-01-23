@@ -28,3 +28,10 @@ payload:
 - DOMAIN,m1.syxxxx.net
 #非越cf
 - DOMAIN,cf.sfcj.org
+#emby和需要挂梯的 非443 80端口
+#大v
+- DOMAIN-SUFFIX,viclub.top
+#大vcf
+- DOMAIN-SUFFIX,306699.xyz
+#polo
+- DOMAIN-SUFFIX,poloemby.xyz
