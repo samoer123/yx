@@ -5,11 +5,6 @@ payload:
 - DOMAIN-SUFFIX,pdtvs.de
 #见手青
 - DOMAIN-SUFFIX,vban.xyz
-#月饼
-- DOMAIN-SUFFIX,emby.my
-- DOMAIN-SUFFIX,mobai.sbs
-#theluyuan
-- DOMAIN-SUFFIX,theluyuan.com
 #彩虹
 - DOMAIN-SUFFIX,feiyue.lol
 #peach
