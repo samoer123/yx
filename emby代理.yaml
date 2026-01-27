@@ -34,6 +34,11 @@ payload:
 - DOMAIN-SUFFIX,miraiemby.com
 #hohai
 - DOMAIN-SUFFIX,hohai.eu.org
+#月饼
+- DOMAIN-SUFFIX,emby.my
+- DOMAIN-SUFFIX,mobai.sbs
+#theluyuan
+- DOMAIN-SUFFIX,theluyuan.com
 #emby和需要挂梯的 非443 80端口
 #大v
 - DOMAIN-SUFFIX,viclub.top
