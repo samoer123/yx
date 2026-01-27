@@ -26,12 +26,8 @@ payload:
 - DOMAIN-KEYWORD,fworks-emby
 #emos
 - DOMAIN-SUFFIX,dolby.dpdns.org
-- DOMAIN-SUFFIX,emos.lol
-- DOMAIN-SUFFIX,huohuoaa.asia
+- DOMAIN-SUFFIX,emos.best
 - DOMAIN-SUFFIX,078899.xyz
-- DOMAIN-SUFFIX,200038.xyz
-- DOMAIN-SUFFIX,movier.ink
-- DOMAIN-SUFFIX,emos.de5.net
 #nya
 - DOMAIN-SUFFIX,emby.bangumi.ca
 #二次元联通
