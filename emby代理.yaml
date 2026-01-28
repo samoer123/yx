@@ -39,6 +39,8 @@ payload:
 - DOMAIN-SUFFIX,mobai.sbs
 #theluyuan
 - DOMAIN-SUFFIX,theluyuan.com
+#paul
+- DOMAIN-SUFFIX,imetyou.top
 #emby和需要挂梯的 非443 80端口
 #大v
 - DOMAIN-SUFFIX,viclub.top
