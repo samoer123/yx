@@ -15,3 +15,6 @@ payload:
 - DOMAIN,sjc.chilledmelon.com
 #emos
 - DOMAIN-SUFFIX,dolby.dpdns.org
+#mirai
+- DOMAIN,mi.miraiemby.com
+- DOMAIN,stream-1.miraiemby.com
