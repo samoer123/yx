@@ -1,5 +1,7 @@
 payload:
 #emby和需要挂梯的 443 80端口
+#彩虹
+- DOMAIN-SUFFIX,feiyue.lol
 #垃圾
 - DOMAIN-SUFFIX,xmsl.org
 #垃圾cf后端
