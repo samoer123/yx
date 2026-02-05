@@ -1,7 +1,5 @@
 payload:
 #emby和需要直连的
-#彩虹
-- DOMAIN-SUFFIX,feiyue.lol
 #惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
 #算亿轩hkt
