@@ -16,7 +16,5 @@ payload:
 #mirai
 - DOMAIN,mi.miraiemby.com
 - DOMAIN,stream-1.miraiemby.com
-#panda 目前主线路直
-- DOMAIN,pandtv.de
 #fwork
 - DOMAIN-KEYWORD,fworks-emby
