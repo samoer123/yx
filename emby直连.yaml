@@ -5,8 +5,8 @@ payload:
 #算亿轩hkt
 - DOMAIN,hkt.m1.syxxxx.net
 - DOMAIN,hktlb.m1.syxxxx.net
-#DP
-- DOMAIN-SUFFIX,bwihz.cn
+#DP已挂
+#- DOMAIN-SUFFIX,bwihz.cn
 #西瓜
 - DOMAIN,cf.icgua.de
 - DOMAIN,fra.chilledmelon.com
