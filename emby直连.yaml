@@ -18,3 +18,5 @@ payload:
 - DOMAIN,stream-1.miraiemby.com
 #fwork
 - DOMAIN-KEYWORD,fworks-emby
+#cf自建反代
+- DOMAIN-SUFFIX,lph.pp.ua
