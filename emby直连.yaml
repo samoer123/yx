@@ -19,4 +19,4 @@ payload:
 #fwork
 - DOMAIN-KEYWORD,fworks-emby
 #cf自建反代
-- DOMAIN-SUFFIX,lph.pp.ua
+- DOMAIN,lj.lph.pp.ua
