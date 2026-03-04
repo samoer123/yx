@@ -20,3 +20,5 @@ payload:
 - DOMAIN-KEYWORD,fworks-emby
 #cf自建反代
 - DOMAIN,lj.lph.pp.ua
+#月之轩
+- DOMAIN,emby.4348663.xyz
