@@ -14,8 +14,8 @@ payload:
 #emos
 - DOMAIN-SUFFIX,dolby.dpdns.org
 #mirai
-- DOMAIN,mi.miraiemby.com
-- DOMAIN,stream-1.miraiemby.com
+- DOMAIN-SUFFIX,miraiemby.com
+- DOMAIN,stream-1.jiedaibao.gs
 #fwork
 - DOMAIN-KEYWORD,fworks-emby
 #cf自建反代
