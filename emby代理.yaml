@@ -16,8 +16,6 @@ payload:
 - DOMAIN-SUFFIX,istyboe.top
 #西瓜
 - DOMAIN-SUFFIX,chilledmelon.com
-#yonocf
-- DOMAIN,emby.younoyes.com
 #ntrrr
 - DOMAIN-SUFFIX,ntrrr.top
 #pilipili
@@ -41,8 +39,6 @@ payload:
 - DOMAIN-SUFFIX,mobai.sbs
 #theluyuan
 - DOMAIN-SUFFIX,theluyuan.com
-#paul
-- DOMAIN-SUFFIX,imetyou.top
 #panda 以下是晚高峰网速不到10m/s的。
 - DOMAIN-SUFFIX,pandtv.de
 - DOMAIN-SUFFIX,pdtvs.de
