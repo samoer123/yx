@@ -1,0 +1,9 @@
+payload:
+#emby非日
+#FW直连
+#yonocf
+- DOMAIN,emby.younoyes.com
+#paul
+- DOMAIN-SUFFIX,imetyou.top
+#纸片人
+- DOMAIN-SUFFIX,embyplus.org
