@@ -20,7 +20,7 @@ payload:
 - DOMAIN-KEYWORD,fworks-emby
 #cf自建反代
 - DOMAIN,lj.lph.pp.ua
-- DOMAIN-SUFFIX,embyfd.lph.pp.ua
+- DOMAIN-SUFFIX,e.lph.pp.ua
 - DOMAIN,ss.lph.pp.ua
 - DOMAIN,ss.dxm.pp.ua
 #月之轩
