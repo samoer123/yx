@@ -14,3 +14,5 @@ payload:
 #起点站
 - DOMAIN-SUFFIX,28.al
 - DOMAIN-SUFFIX,startspoint.com
+#垃圾cf后端
+- DOMAIN-SUFFIX,xxlb.net
