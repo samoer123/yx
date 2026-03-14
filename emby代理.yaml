@@ -4,8 +4,6 @@ payload:
 - DOMAIN-SUFFIX,feiyue.lol
 #垃圾
 - DOMAIN-SUFFIX,xmsl.org
-#垃圾cf后端
-- DOMAIN-SUFFIX,xxlb.net
 #守候lite
 - DOMAIN-SUFFIX,cn2gias.uk
 #非越
