@@ -16,8 +16,6 @@ payload:
 #mirai
 - DOMAIN-SUFFIX,miraiemby.com
 - DOMAIN,stream-1.jiedaibao.gs
-#fwork
-- DOMAIN-KEYWORD,fworks-emby
 #cf自建反代
 - DOMAIN,lj.lph.pp.ua
 - DOMAIN-SUFFIX,e.lph.pp.ua
