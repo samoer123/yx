@@ -37,7 +37,6 @@ payload:
 - DOMAIN-SUFFIX,theluyuan.com
 #panda 以下是晚高峰网速不到10m/s的。
 - DOMAIN-SUFFIX,pandtv.de
-- DOMAIN-SUFFIX,pdtvs.de
 #peach
 - DOMAIN-SUFFIX,embymv.link
 #cc
