@@ -24,8 +24,10 @@ payload:
 - DOMAIN-SUFFIX,y.lph.pp.ua
 - DOMAIN,ss.lph.pp.ua
 - DOMAIN,ss.dxm.pp.ua
+- DOMAIN,cs.dxm.pp.ua
 - DOMAIN,raw.ywp.pp.ua
 - DOMAIN,zh.lidachui.nyc.mn
+- DOMAIN,p.lph.pp.ua
 #月之轩
 - DOMAIN,emby.4348663.xyz
 #二次元联通
