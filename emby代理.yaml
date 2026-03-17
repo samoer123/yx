@@ -24,8 +24,6 @@ payload:
 - DOMAIN,m1.syxxxx.net
 #非越cf
 - DOMAIN,cf.sfcj.org
-#msky
-- DOMAIN-SUFFIX,3msky.com
 #mirai
 - DOMAIN-SUFFIX,miraiemby.com
 #hohai
