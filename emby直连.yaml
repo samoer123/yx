@@ -29,3 +29,5 @@ payload:
 - DOMAIN,cu.cdn.bgp.yt
 #悲伤小鸡
 - DOMAIN-SUFFIX,sadchicktv.com
+#polo
+- DOMAIN-SUFFIX,poloemby.xyz
