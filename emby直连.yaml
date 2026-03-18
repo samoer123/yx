@@ -17,17 +17,12 @@ payload:
 - DOMAIN-SUFFIX,miraiemby.com
 - DOMAIN,stream-1.jiedaibao.gs
 #cf自建反代
-- DOMAIN,lj.lph.pp.ua
-- DOMAIN-SUFFIX,e.lph.pp.ua
-- DOMAIN-SUFFIX,m.lph.pp.ua
-- DOMAIN-SUFFIX,b.lph.pp.ua
-- DOMAIN-SUFFIX,y.lph.pp.ua
-- DOMAIN,ss.lph.pp.ua
-- DOMAIN,ss.dxm.pp.ua
-- DOMAIN,cs.dxm.pp.ua
-- DOMAIN,raw.ywp.pp.ua
-- DOMAIN,zh.lidachui.nyc.mn
-- DOMAIN,p.lph.pp.ua
+- DOMAIN-SUFFIX,lph.pp.ua
+- DOMAIN-SUFFIX,lpz.pp.ua
+- DOMAIN-SUFFIX,dxm.pp.ua
+- DOMAIN-SUFFIX,ywp.pp.ua
+- DOMAIN-SUFFIX,lidachui.nyc.mn
+- DOMAIN-SUFFIX,lidachui.dedyn.io
 #月之轩
 - DOMAIN,emby.4348663.xyz
 #二次元联通
