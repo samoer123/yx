@@ -16,12 +16,6 @@ payload:
 #mirai
 - DOMAIN-SUFFIX,miraiemby.com
 - DOMAIN,stream-1.jiedaibao.gs
-#cf自建反代
-- DOMAIN-SUFFIX,lph.pp.ua
-- DOMAIN-SUFFIX,lpz.pp.ua
-- DOMAIN-SUFFIX,dxm.pp.ua
-- DOMAIN-SUFFIX,ywp.pp.ua
-- DOMAIN-SUFFIX,lidachui.nyc.mn
 #月之轩
 - DOMAIN,emby.4348663.xyz
 #二次元联通
