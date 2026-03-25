@@ -16,3 +16,5 @@ payload:
 - DOMAIN-SUFFIX,startspoint.com
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
+#pilipili
+- DOMAIN,emby.pilipiliultra.com
