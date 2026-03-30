@@ -55,3 +55,6 @@ payload:
 - DOMAIN-SUFFIX,306699.xyz
 #悲伤小鸡
 - DOMAIN-SUFFIX,sadchicktv.com
+#mirai
+- DOMAIN-SUFFIX,miraiemby.com
+- DOMAIN,stream-1.jiedaibao.gs
