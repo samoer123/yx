@@ -14,11 +14,8 @@ payload:
 #emos
 - DOMAIN-SUFFIX,dolby.dpdns.org
 #CF反代
-- DOMAIN-SUFFIX,dxm.pp.ua
-- DOMAIN-SUFFIX,ywp.pp.ua
-- DOMAIN-SUFFIX,lpz.pp.ua
-- DOMAIN-SUFFIX,lph.pp.ua
-- DOMAIN-SUFFIX,lidachui.nyc.mn
+- DOMAIN,a.lph.pp.ua
+- DOMAIN,y.lph.pp.ua
 - DOMAIN,e.196818.xyz
 #月之轩
 - DOMAIN,emby.4348663.xyz
