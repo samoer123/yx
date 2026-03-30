@@ -11,9 +11,7 @@ payload:
 - DOMAIN,cf.icgua.de
 - DOMAIN,fra.chilledmelon.com
 - DOMAIN,sjc.chilledmelon.com
-#emos
-- DOMAIN-SUFFIX,dolby.dpdns.org
-#CF反代
+#emby优选ip
 - DOMAIN,a.lph.pp.ua
 - DOMAIN,y.lph.pp.ua
 - DOMAIN,e.196818.xyz
