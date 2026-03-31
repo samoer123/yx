@@ -19,3 +19,5 @@ payload:
 - DOMAIN,emby.4348663.xyz
 #polo
 - DOMAIN-SUFFIX,poloemby.xyz
+#终点站
+- DOMAIN,c.emby.wtf
