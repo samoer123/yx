@@ -58,3 +58,5 @@ payload:
 #mirai
 - DOMAIN-SUFFIX,miraiemby.com
 - DOMAIN,stream-1.jiedaibao.gs
+#反代tw 夜晚需代理 白天不用
+- DOMAIN,t.lph.pp.ua
