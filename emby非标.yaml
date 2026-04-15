@@ -1,0 +1,10 @@
+payload:
+#emby和需要挂梯的 非443 80端口
+#peach
+- DOMAIN-SUFFIX,embymv.link
+#大v
+- DOMAIN-SUFFIX,viclub.top
+#大vcf
+- DOMAIN-SUFFIX,306699.xyz
+#polo
+- DOMAIN-SUFFIX,poloemby.xyz

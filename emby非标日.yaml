@@ -1,0 +1,4 @@
+payload:
+##emby和需要挂梯的 非443 80端口 非日
+#见手青
+- DOMAIN-SUFFIX,vban.xyz
