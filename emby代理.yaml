@@ -31,8 +31,6 @@ payload:
 - DOMAIN-SUFFIX,theluyuan.com
 #panda 以下是晚高峰网速不到10m/s的。
 - DOMAIN-SUFFIX,pandtv.de
-#peach
-- DOMAIN-SUFFIX,embymv.link
 #cc
 - DOMAIN-SUFFIX,coemn.com
 - DOMAIN-SUFFIX,carryz.net
@@ -48,11 +46,6 @@ payload:
 #西瓜 以上是晚高峰网速不到10m/s的。
 - DOMAIN,cf.xgua.de
 - DOMAIN,cf.icegua.de
-#emby和需要挂梯的 非443 80端口
-#大v
-- DOMAIN-SUFFIX,viclub.top
-#大vcf
-- DOMAIN-SUFFIX,306699.xyz
 #悲伤小鸡
 - DOMAIN-SUFFIX,sadchicktv.com
 #mirai
@@ -62,5 +55,3 @@ payload:
 - DOMAIN,t.lph.pp.ua
 - DOMAIN,e.lph.pp.ua
 - DOMAIN,u.lph.pp.ua
-#polo
-- DOMAIN-SUFFIX,poloemby.xyz
