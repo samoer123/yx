@@ -11,8 +11,3 @@ payload:
 - DOMAIN,cf.icgua.de
 - DOMAIN,fra.chilledmelon.com
 - DOMAIN,sjc.chilledmelon.com
-#emby优选ip
-- DOMAIN,a.lph.pp.ua
-- DOMAIN,y.lph.pp.ua
-- DOMAIN,e.196818.xyz
-- DOMAIN,l.196818.xyz
