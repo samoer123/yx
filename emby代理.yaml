@@ -49,6 +49,8 @@ payload:
 #mirai
 - DOMAIN-SUFFIX,miraiemby.com
 - DOMAIN,stream-1.jiedaibao.gs
+#回声
+- DOMAIN-SUFFIX,echoflix.de
 #反代sg 夜晚需代理 白天不用
 - DOMAIN,t.lph.pp.ua
 - DOMAIN,e.lph.pp.ua
