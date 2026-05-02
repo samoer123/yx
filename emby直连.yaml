@@ -7,7 +7,3 @@ payload:
 - DOMAIN,hktlb.m1.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
-#西瓜
-- DOMAIN,cf.icgua.de
-- DOMAIN,fra.chilledmelon.com
-- DOMAIN,sjc.chilledmelon.com
