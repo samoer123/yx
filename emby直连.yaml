@@ -7,3 +7,5 @@ payload:
 - DOMAIN,hktlb.m1.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
+#polo
+- DOMAIN-SUFFIX,poloemby.xyz
