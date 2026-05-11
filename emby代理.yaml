@@ -20,8 +20,6 @@ payload:
 - DOMAIN,m1.syxxxx.net
 #非越cf
 - DOMAIN,cf.sfcj.org
-#mirai
-- DOMAIN-SUFFIX,miraiemby.com
 #hohai
 - DOMAIN-SUFFIX,hohai.eu.org
 #月饼
