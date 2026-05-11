@@ -9,3 +9,5 @@ payload:
 - DOMAIN-SUFFIX,pdtvs.de
 #polo
 - DOMAIN-SUFFIX,poloemby.xyz
+#mirai2
+- DOMAIN,mi2.miraiemby.com
