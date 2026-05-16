@@ -7,8 +7,6 @@ payload:
 - DOMAIN,hktlb.m1.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
-#polo
-- DOMAIN-SUFFIX,poloemby.xyz
 #mirai2
 - DOMAIN,mi2.miraiemby.com
 #小鸡cdn
