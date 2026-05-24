@@ -5,6 +5,7 @@ payload:
 #算亿轩hkt
 - DOMAIN,hkt.m1.syxxxx.net
 - DOMAIN,hktlb.m1.syxxxx.net
+- DOMAIN,ea.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
 #mirai2
