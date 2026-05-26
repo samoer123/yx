@@ -1,6 +1,5 @@
 payload:
 #emby非日
-#FW直连
 #yonocf
 - DOMAIN,emby.younoyes.com
 #paul
@@ -12,7 +11,5 @@ payload:
 #起点站
 - DOMAIN-SUFFIX,28.al
 - DOMAIN-SUFFIX,startspoint.com
-#垃圾cf后端
-- DOMAIN-SUFFIX,xxlb.net
 #pilipili
 - DOMAIN,emby.pilipiliultra.com
