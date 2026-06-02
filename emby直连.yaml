@@ -13,7 +13,3 @@ payload:
 - DOMAIN,mi2.miraiemby.com
 #小鸡cdn
 - DOMAIN,emby2.sadchicktv.com
-#115 302服
-- DOMAIN-SUFFI,nookreel.com
-- DOMAIN-SUFFI,107771.xyz
-- DOMAIN-SUFFI,daidaio.com
