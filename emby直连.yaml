@@ -12,4 +12,4 @@ payload:
 #mirai2
 - DOMAIN-SUFFIX,miraiemby.com
 #小鸡cdn
-- DOMAIN,emby2.sadchicktv.com
+- DOMAIN-SUFFIX,sadchicktv.com
