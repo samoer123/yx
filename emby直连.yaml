@@ -10,6 +10,6 @@ payload:
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
 #mirai2
-- DOMAIN,mi2.miraiemby.com
+- DOMAIN-SUFFI,miraiemby.com
 #小鸡cdn
 - DOMAIN,emby2.sadchicktv.com
