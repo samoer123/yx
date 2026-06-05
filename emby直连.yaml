@@ -14,8 +14,8 @@ payload:
 #小鸡cdn
 - DOMAIN-SUFFIX,sadchicktv.com
 #nodereel 115
-- DOMAIN-SUFFIX,nookreel.com
+- DOMAIN,media.nookreel.com
 #X 115
-- DOMAIN-SUFFIX,107771.xyz
+- DOMAIN,emby.107771.xyz
 #呆呆 115
-- DOMAIN-SUFFIX,daidaio.com
+- DOMAIN,emby.daidaio.com
