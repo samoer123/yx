@@ -11,8 +11,6 @@ payload:
 - DOMAIN-SUFFIX,pdtvs.de
 #mirai2
 - DOMAIN-SUFFIX,miraiemby.com
-#小鸡cdn
-- DOMAIN-SUFFIX,sadchicktv.com
 #nodereel 115
 - DOMAIN,media.nookreel.com
 #X 115
