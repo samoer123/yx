@@ -44,11 +44,6 @@ payload:
 #西瓜 以上是晚高峰网速不到10m/s的。
 - DOMAIN,cf.xgua.de
 - DOMAIN,cf.icegua.de
-#悲伤小鸡
-- DOMAIN-SUFFIX,sadchicktv.com
-#mirai
-- DOMAIN-SUFFIX,miraiemby.com
-- DOMAIN,stream-1.jiedaibao.gs
 #回声
 - DOMAIN-SUFFIX,echoflix.de
 #反代sg 夜晚需代理 白天不用
