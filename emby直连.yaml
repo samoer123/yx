@@ -9,6 +9,8 @@ payload:
 - DOMAIN,eapay.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.de
+#小鸡cdn
+- DOMAIN-SUFFIX,sadchicktv.com
 #mirai2
 - DOMAIN-SUFFIX,miraiemby.com
 #nodereel 115
