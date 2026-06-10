@@ -19,3 +19,5 @@ payload:
 - DOMAIN,emby.107771.xyz
 #呆呆 115
 - DOMAIN,emby.daidaio.com
+#日本lengend 服务直连
+- IP-CIDR,216.23.101.79/32
