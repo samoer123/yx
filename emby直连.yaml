@@ -2,9 +2,7 @@ payload:
 #emby和需要直连的
 #惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
-#算亿轩hkt
-- DOMAIN,hkt.m1.syxxxx.net
-- DOMAIN,hktlb.m1.syxxxx.net
+#算亿轩ea
 - DOMAIN,ea.syxxxx.net
 - DOMAIN,eapay.syxxxx.net
 #panda优化2 3网
