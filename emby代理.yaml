@@ -7,7 +7,7 @@ payload:
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
 #守候lite
-- DOMAIN-SUFFIX,cn2gias.uk
+- DOMAIN,lite.cn2gias.uk
 #非越
 - DOMAIN-SUFFIX,sfcj.org
 #西瓜
@@ -16,10 +16,6 @@ payload:
 - DOMAIN-SUFFIX,ntrrr.top
 #shrek
 - DOMAIN,public.shrekmedia.org
-#稳健
-- DOMAIN,emby.wenjian.de
-#算亿轩
-- DOMAIN,m1.syxxxx.net
 #非越cf
 - DOMAIN,cf.sfcj.org
 #hohai
