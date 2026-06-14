@@ -12,10 +12,10 @@ payload:
 #mirai2
 - DOMAIN-SUFFIX,miraiemby.com
 #nodereel 115
-- DOMAIN,media.nookreel.com
+- DOMAIN-SUFFIX,nookreel.com
 #X 115
-- DOMAIN,emby.107771.xyz
+- DOMAIN-SUFFIX,107771.xyz
 #呆呆 115
-- DOMAIN,emby.daidaio.com
+- DOMAIN-SUFFIX,daidaio.com
 #守候v6
 - DOMAIN,lite-v6.cn2gias.uk
