@@ -21,6 +21,15 @@ https://iptv.852851.xyz/ch/2b8ab7b49aa9fdada9b75995a72142e2/master.m3u8
 #EXTINF:-1 group-title="SportsG",619
 https://iptv.852851.xyz/ch/b8e85932b68a464987129f9271fe64d5/master.m3u8
 
+#EXTINF:-1 group-title="SportsG",618备用
+http://77.90.60.172:55555/10
+
+#EXTINF:-1 group-title="SportsG",616备用
+http://77.90.60.172:55555/11
+
+#EXTINF:-1 group-title="SportsG",FOX备用
+https://iptv.852851.xyz/ch/c1ca17ec0942024c44b8b09156500c4a/master.m3u8
+
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SportsG",FOX - HDR10 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
