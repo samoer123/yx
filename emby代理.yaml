@@ -6,8 +6,8 @@ payload:
 - DOMAIN-SUFFIX,xmsl.org
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
-#守候litev4
-- DOMAIN,lite.cn2gias.uk
+#守候lite
+- DOMAIN-SUFFIX,lite.cn2gias.uk
 #非越
 - DOMAIN-SUFFIX,sfcj.org
 #西瓜
