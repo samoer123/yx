@@ -15,10 +15,46 @@ https://iptv.852851.xyz/ch/68e97c59f10d99489065f1e85c13a85b/master.m3u8
 #EXTINF:-1 group-title="SportsG",BBC 4K UK
 https://iptv.852851.xyz/ch/658c0f58649dc01367c475da6f24310d/master.m3u8
 
+#EXTINF:-1 group-title="SportsG",616
+http://77.90.60.172:55555/8
+
+#EXTINF:-1 group-title="SportsG",617
+http://77.90.60.172:55555/6
+
 #EXTINF:-1 group-title="SportsG",618
-https://iptv.852851.xyz/ch/2b8ab7b49aa9fdada9b75995a72142e2/master.m3u8
+http://77.90.60.172:55555/4
 
 #EXTINF:-1 group-title="SportsG",619
+http://77.90.60.172:55555/3
+
+#EXTINF:-1 group-title="SportsG",TSN 4K
+http://77.90.60.172:55555/1
+
+#EXTINF:-1 group-title="SportsG",德国FUSSBALL.TV 1 UHD
+http://77.90.60.172:55555/2
+
+#EXTINF:-1 group-title="SportsG",福克斯4K
+http://77.90.60.172:55555/5
+
+#EXTINF:-1 group-title="SportsG",福克斯体育1
+http://77.90.60.172:55555/7
+
+#EXTINF:-1 group-title="SportsG",619
+http://77.90.60.172:55555/0
+
+#EXTINF:-1 group-title="SportsG",法语M6
+http://77.90.60.172:55555/3
+
+#EXTINF:-1 group-title="SportsG",617备用
+http://77.90.60.172:55555/9
+
+#EXTINF:-1 group-title="SportsG",619备用
+http://77.90.60.172:55555/12
+
+#EXTINF:-1 group-title="SportsG",618y
+https://iptv.852851.xyz/ch/2b8ab7b49aa9fdada9b75995a72142e2/master.m3u8
+
+#EXTINF:-1 group-title="SportsG",619y
 https://iptv.852851.xyz/ch/b8e85932b68a464987129f9271fe64d5/master.m3u8
 
 #EXTINF:-1 group-title="SportsG",618备用
