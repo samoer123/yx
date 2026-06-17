@@ -6,7 +6,7 @@ payload:
 - DOMAIN,ea.syxxxx.net
 - DOMAIN,eapay.syxxxx.net
 #panda优化2 3网
-- DOMAIN-SUFFIX,pdtvs.de
+- DOMAIN-SUFFIX,pdtvs.com
 #小鸡cdn
 - DOMAIN-SUFFIX,sadchicktv.com
 #mirai2
