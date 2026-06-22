@@ -1,18 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SportsG",BBC UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
-
 #EXTINF:-1 group-title="SportsG",FOX 4K 60fps HDR EAC3 5.1
 http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465858
-
-#EXTINF:-1 group-title="SportsG",Travelxp
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
-
-#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="SportsG",FOX - HDR10 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 group-title="SportsG",JOJ Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
