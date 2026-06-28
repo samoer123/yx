@@ -10,6 +10,7 @@ payload:
 - DOMAIN-SUFFIX,lite.cn2gias.uk
 #非越
 - DOMAIN-SUFFIX,sfcj.org
+- DOMAIN-SUFFIX,emby.pro
 #西瓜
 - DOMAIN-SUFFIX,chilledmelon.com
 #ntrrr
