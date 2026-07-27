@@ -45,10 +45,12 @@ payload:
 - DOMAIN,t.lph.pp.ua
 - DOMAIN,e.lph.pp.ua
 - DOMAIN,u.lph.pp.ua
-#见手青硬盘
-- DOMAIN-SUFFIX,mooguu.top
 #steven115
 - DOMAIN-SUFFIX,steven037.xyz
 - DOMAIN-SUFFIX,278612356.xyz
 #惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
+#小鸡cdn
+- DOMAIN-SUFFIX,sadchicktv.com
+#mirai2
+- DOMAIN-SUFFIX,miraiemby.com
