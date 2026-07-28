@@ -11,8 +11,6 @@ payload:
 #非越
 - DOMAIN-SUFFIX,sfcj.org
 - DOMAIN-SUFFIX,emby.pro
-#西瓜
-- DOMAIN-SUFFIX,chilledmelon.com
 #ntrrr
 - DOMAIN-SUFFIX,ntrrr.top
 #shrek
@@ -36,9 +34,6 @@ payload:
 #垃圾拉斯后端 貌似跟cc一个？第二个是真的拉斯？
 - IP-CIDR,103.234.128.149/32
 - IP-CIDR,209.141.61.153/32
-#西瓜 以上是晚高峰网速不到10m/s的。
-- DOMAIN,cf.xgua.de
-- DOMAIN,cf.icegua.de
 #回声
 - DOMAIN-SUFFIX,echoflix.de
 #反代sg 夜晚需代理 白天不用
