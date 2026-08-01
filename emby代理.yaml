@@ -46,3 +46,18 @@ payload:
 - DOMAIN-SUFFIX,sadchicktv.com
 #mirai2
 - DOMAIN-SUFFIX,miraiemby.com
+#yonocf
+- DOMAIN,emby.younoyes.com
+#paul
+- DOMAIN-SUFFIX,imetyou.top
+#纸片人
+- DOMAIN-SUFFIX,embyplus.org
+#sdl
+- DOMAIN-SUFFIX,saturdayent.top
+#起点站
+- DOMAIN-SUFFIX,28.al
+- DOMAIN-SUFFIX,startspoint.com
+#pilipili
+- DOMAIN,emby.pilipiliultra.com
+#nox
+- DOMAIN-SUFFIX,inemby.us.ci
