@@ -36,10 +36,6 @@ payload:
 - IP-CIDR,209.141.61.153/32
 #回声
 - DOMAIN-SUFFIX,echoflix.de
-#反代sg 夜晚需代理 白天不用
-- DOMAIN,t.lph.pp.ua
-- DOMAIN,e.lph.pp.ua
-- DOMAIN,u.lph.pp.ua
 #惊蛰
 - DOMAIN-SUFFIX,jingzhe.pro
 #小鸡cdn
@@ -61,6 +57,3 @@ payload:
 - DOMAIN,emby.pilipiliultra.com
 #nox
 - DOMAIN-SUFFIX,inemby.us.ci
-#予初
-- DOMAIN-SUFFIX,yusen6.ccwu.cc
-- DOMAIN-SUFFIX,yusen.us.ci
