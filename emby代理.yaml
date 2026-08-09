@@ -61,3 +61,6 @@ payload:
 - DOMAIN,emby.pilipiliultra.com
 #nox
 - DOMAIN-SUFFIX,inemby.us.ci
+#予初
+- DOMAIN-SUFFIX,yusen6.ccwu.cc
+- DOMAIN-SUFFIX,yusen.us.ci
