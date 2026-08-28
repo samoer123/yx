@@ -9,14 +9,12 @@ payload:
 - DOMAIN-SUFFIX,nookreel.com
 #X 115
 - DOMAIN-SUFFIX,107771.xyz
-#呆呆 115
-- DOMAIN-SUFFIX,daidaio.com
 #steven115
 - DOMAIN-SUFFIX,278612356.xyz
-#小窝115
-- DOMAIN-SUFFIX,023365.xyz
 #垃圾测试
 - DOMAIN-SUFFIX,6767678.xyz
 #予初
 - DOMAIN-SUFFIX,yusen6.ccwu.cc
 - DOMAIN-SUFFIX,yusen.us.ci
+#起点暂时
+- DOMAIN-SUFFIX,28.al
