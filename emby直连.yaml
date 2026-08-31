@@ -19,4 +19,4 @@ payload:
 #起点暂时
 - DOMAIN-SUFFIX,28.al
 #buff
-DOMAIN-KEYWORD,buffbuff
+- DOMAIN-KEYWORD,buffbuff
