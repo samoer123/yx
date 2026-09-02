@@ -14,8 +14,7 @@ payload:
 #垃圾测试
 - DOMAIN-SUFFIX,6767678.xyz
 #予初
-- DOMAIN-SUFFIX,yusen6.ccwu.cc
-- DOMAIN-SUFFIX,yusen.us.ci
+- DOMAIN-KEYWORD,yusen
 #起点暂时
 - DOMAIN-SUFFIX,28.al
 #buff
