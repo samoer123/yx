@@ -17,7 +17,5 @@ payload:
 - DOMAIN-KEYWORD,yusen
 #起点暂时
 - DOMAIN-SUFFIX,28.al
-#buff
-- DOMAIN-KEYWORD,buffbuff
 #二楼
 - DOMAIN-SUFFIX,huangmin.cc.cd
