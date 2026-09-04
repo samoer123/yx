@@ -19,9 +19,3 @@ payload:
 - DOMAIN-SUFFIX,28.al
 #二楼
 - DOMAIN-SUFFIX,huangmin.cc.cd
-#阿里
-- DOMAIN-SUFFIX,alibabacloud.com
-- DOMAIN-SUFFIX,alibabacloudapi.com
-- DOMAIN-SUFFIX,alibaba.com
-- DOMAIN-SUFFIX,aliyun.com
-- DOMAIN-SUFFIX,aliyuncs.com
