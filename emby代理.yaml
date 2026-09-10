@@ -7,12 +7,10 @@ payload:
 #垃圾cf后端
 - DOMAIN-SUFFIX,xxlb.net
 #守候lite
-- DOMAIN-SUFFIX,lite.cn2gias.uk
+- DOMAIN-SUFFIX,cn2gias.uk
 #非越
 - DOMAIN-SUFFIX,sfcj.org
 - DOMAIN-SUFFIX,emby.pro
-#ntrrr
-- DOMAIN-SUFFIX,ntrrr.top
 #shrek
 - DOMAIN,public.shrekmedia.org
 #非越cf
@@ -46,14 +44,12 @@ payload:
 - DOMAIN,emby.younoyes.com
 #paul
 - DOMAIN-SUFFIX,imetyou.top
-#纸片人
-- DOMAIN-SUFFIX,embyplus.org
+#垃圾115前端
+- DOMAIN-SUFFIX,emby.moe
 #sdl
 - DOMAIN-SUFFIX,saturdayent.top
 #起点站
 - DOMAIN-SUFFIX,28.al
 - DOMAIN-SUFFIX,startspoint.com
-#pilipili
-- DOMAIN,emby.pilipiliultra.com
 #nox
 - DOMAIN-SUFFIX,inemby.us.ci
