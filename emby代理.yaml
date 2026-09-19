@@ -53,6 +53,8 @@ payload:
 - DOMAIN-SUFFIX,startspoint.com
 #nox
 - DOMAIN-SUFFIX,inemby.us.ci
+#终点站
+- DOMAIN-SUFFIX,emby.wtf
 #emby和需要挂梯的 非443 80端口
 #peach
 - DOMAIN-SUFFIX,embymv.link
