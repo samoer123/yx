@@ -7,8 +7,6 @@ payload:
 - DOMAIN-SUFFIX,pdtvs.com
 #nodereel 115
 - DOMAIN-SUFFIX,nookreel.com
-#X 115
-- DOMAIN-SUFFIX,107771.xyz
 #steven115
 - DOMAIN-SUFFIX,278612356.xyz
 - IP-CIDR,103.118.245.1/32
