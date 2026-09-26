@@ -48,6 +48,9 @@ payload:
 - DOMAIN-SUFFIX,emby.moe
 #sdl
 - DOMAIN-SUFFIX,saturdayent.top
+#steven115
+- DOMAIN-SUFFIX,278612356.xyz
+- IP-CIDR,103.118.245.1/32
 #xiaov的ro 115前端
 - DOMAIN-SUFFIX,xiaov8.com
 #nodereel 115前端
