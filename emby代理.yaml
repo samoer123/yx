@@ -50,6 +50,8 @@ payload:
 - DOMAIN-SUFFIX,saturdayent.top
 #xiaov的ro 115前端
 - DOMAIN-SUFFIX,xiaov8.com
+#nodereel 115前端
+- DOMAIN-SUFFIX,nookreel.com
 #起点站
 - DOMAIN-SUFFIX,28.al
 - DOMAIN-SUFFIX,startspoint.com
