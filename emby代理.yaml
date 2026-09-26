@@ -48,6 +48,8 @@ payload:
 - DOMAIN-SUFFIX,emby.moe
 #sdl
 - DOMAIN-SUFFIX,saturdayent.top
+#xiaov的ro 115前端
+- DOMAIN-SUFFIX,xiaov8.com
 #起点站
 - DOMAIN-SUFFIX,28.al
 - DOMAIN-SUFFIX,startspoint.com
