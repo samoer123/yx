@@ -64,6 +64,10 @@ payload:
 - DOMAIN-SUFFIX,inemby.us.ci
 #终点站
 - DOMAIN-SUFFIX,emby.wtf
+#辰辰
+- DOMAIN-SUFFIX,wybcs.work
+#垃圾测试
+- DOMAIN-SUFFIX,6767678.xyz
 #emby和需要挂梯的 非443 80端口
 #peach
 - DOMAIN-SUFFIX,embymv.link
