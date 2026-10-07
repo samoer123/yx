@@ -1,8 +1,5 @@
 payload:
 #emby和需要直连的
-#算亿轩ea
-- DOMAIN,ea.syxxxx.net
-- DOMAIN,eapay.syxxxx.net
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.com
 #予初
