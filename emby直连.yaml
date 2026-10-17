@@ -2,8 +2,6 @@ payload:
 #emby和需要直连的
 #panda优化2 3网
 - DOMAIN-SUFFIX,pdtvs.com
-#起点暂时
-- DOMAIN-SUFFIX,28.al
 #二楼
 - DOMAIN-SUFFIX,huangmin.cc.cd
 - DOMAIN-SUFFIX,585820.xyz
