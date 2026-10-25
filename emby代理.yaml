@@ -19,9 +19,8 @@ payload:
 - DOMAIN-SUFFIX,hohai.eu.org
 #月饼
 - DOMAIN-SUFFIX,emby.my
-- DOMAIN-SUFFIX,mobai.sbs
-#theluyuan
-- DOMAIN-SUFFIX,theluyuan.com
+- DOMAIN-SUFFIX,876645.xyz
+- DOMAIN-SUFFIX,apple-cdn.net
 #cc
 - DOMAIN-SUFFIX,coemn.com
 - DOMAIN-SUFFIX,carryz.net
@@ -34,8 +33,6 @@ payload:
 - IP-CIDR,209.141.61.153/32
 #回声
 - DOMAIN-SUFFIX,echoflix.de
-#惊蛰
-- DOMAIN-SUFFIX,jingzhe.pro
 #小鸡cdn
 - DOMAIN-SUFFIX,sadchicktv.com
 #mirai2
@@ -67,8 +64,6 @@ payload:
 #辰辰
 - DOMAIN-SUFFIX,wybcs.work
 #emby和需要挂梯的 非443 80端口
-#peach
-- DOMAIN-SUFFIX,embymv.link
 #大v
 - DOMAIN-SUFFIX,viclub.top
 #大vcf
