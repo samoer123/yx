@@ -8,13 +8,8 @@ payload:
 - DOMAIN-SUFFIX,xxlb.net
 #守候lite
 - DOMAIN-SUFFIX,cn2gias.uk
-#非越
-- DOMAIN-SUFFIX,sfcj.org
-- DOMAIN-SUFFIX,emby.pro
 #shrek
 - DOMAIN,public.shrekmedia.org
-#非越cf
-- DOMAIN,cf.sfcj.org
 #hohai
 - DOMAIN-SUFFIX,hohai.eu.org
 #月饼
@@ -59,6 +54,8 @@ payload:
 - DOMAIN-SUFFIX,startspoint.com
 #nox
 - DOMAIN-SUFFIX,inemby.us.ci
+#这只猫
+- DOMAIN-SUFFIX,covh.eu.org
 #终点站
 - DOMAIN-SUFFIX,emby.wtf
 #辰辰
