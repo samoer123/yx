@@ -14,7 +14,6 @@ payload:
 - DOMAIN-SUFFIX,hohai.eu.org
 #月饼
 - DOMAIN-SUFFIX,emby.my
-- DOMAIN-SUFFIX,876645.xyz
 - DOMAIN-SUFFIX,apple-cdn.net
 #cc
 - DOMAIN-SUFFIX,coemn.com
